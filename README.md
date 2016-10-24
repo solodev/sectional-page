@@ -238,7 +238,7 @@ The sectional web page contains the following basic HTML markup.
 
 ## CSS
 
-All necessary CSS is in sectional.css
+All necessary CSS can be found in sectional.css
 
 ## External Includes
 
